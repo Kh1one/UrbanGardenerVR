@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6b5467cdd1c67e4d9032d23423b338c, type: 3}
+  m_Name: Turnip
+  m_EditorClassIdentifier: 
+  plantName: turnip
+  plant:
+  - {fileID: 4551777665662649761, guid: 744a639c891aac14f912bc6338d4c44d, type: 3}
+  - {fileID: 1000010164499024, guid: f0666abddd74e5644ac4cf977d74e5e9, type: 3}
+  - {fileID: 1145504323980876118, guid: cf76128691ec1d141800691ce5af095a, type: 3}
+  - {fileID: 1000013984154124, guid: 9c0476b14d8c518499bcc0adff155ff8, type: 3}
+  timeBetweenStages: 4
